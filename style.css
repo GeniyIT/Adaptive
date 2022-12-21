@@ -1,0 +1,51 @@
+body {
+    background-image: url("//images01.nicepagecdn.com/c461c07a441a5d220e8feb1a/1f33596e29405333bdbf2bb0/hgghgh-min1.jpg");
+}
+
+.header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.square {
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.word {
+    font-size: 18px;
+    font-family: 'Segoe Ui';
+    padding: 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+a {
+    color: orange;
+    font-size: 30px;
+}
+
+h1{
+    color: White;
+}
+
+h2{
+
+    color: #e0cd1c;
+}

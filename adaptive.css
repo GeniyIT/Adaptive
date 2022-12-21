@@ -1,0 +1,19 @@
+@media (max-width: 850px){
+    .box{
+        width: 620px;
+    }
+    .square{
+        width: 250px;
+    }
+}
+
+@media (max-width: 640px){
+    .box{
+        width: 320px;
+    }
+    .square{
+        width: 300px;
+    }
+}
+
+
